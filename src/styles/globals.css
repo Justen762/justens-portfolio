@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Cascadia Code";
+  src: url("/fonts/CascadiaCode-VariableFont_wght.ttf") format("truetype");
+}
+
+:root {
+  background-color: black;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
